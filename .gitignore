@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+*.egg
+*.dist-info/
+*.whl
+*.log
+*.bak
+
+# Dataset (large)
+dataset/
+*.zip
+*.tar.gz
+
+
+
+# Other
+*.tmp
+*.swp
+*.DS_Store
+
+uploads/AppleScab2.JPG
+uploads/CornCommonRust2.JPG
+uploads/PotatoEarlyBlight3.JPG
+uploads/Screenshot_2025-06-18_144437.png
+uploads/Screenshot_2025-06-18_144526.png
+uploads/Screenshot_2025-06-18_144558.png
+uploads/Screenshot_2025-06-18_144909.png
+uploads/Screenshot_2025-06-18_144959.png
+uploads/TomatoHealthy2.JPG
+uploads/TomatoLeafMold2.JPG
+uploads/TomatoSeptoriaLeafSpot2.JPG 
