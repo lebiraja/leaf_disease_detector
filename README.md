@@ -161,4 +161,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-> 🌿 *Saving plants, one pixel at a time!* 💻
+> 🌿 *Saving plants, one pixel at a time!* 💻 
